@@ -26,7 +26,7 @@ A modern and visually appealing dark theme for Visual Studio Code, designed to e
 **Example Screenshot 1: C# Code**
 
 *(Show a C# code snippet with the theme applied, highlighting the styling of `var` and other C# elements)*
-![C# Code Example](https://raw.githubusercontent.com/kobyko/main/Screenshot.png)
+![C# Code Example](https://github.com/kobyko/claude-dark-theme/blob/main/Screenshot.png?raw=true)
 
 
 
